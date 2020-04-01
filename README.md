@@ -1,0 +1,1 @@
+# proto-from-java-maven-plugin
